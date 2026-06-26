@@ -23,7 +23,7 @@ class App:
 
     def __init__(self, root):
         self.root = root
-        self.root.title("📚 ERP Biblioteca")
+        self.root.title("📚 ERP Livraria")
         self.root.geometry("1000x650")
 
         criar_tabela()
