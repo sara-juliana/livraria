@@ -1,3 +1,8 @@
+## Francisco Eduardo da Silva Cunha
+## Johny William Pereira de Sousa
+## Sara Juliana Lima Ferreira
+
+
 import tkinter as tk
 from app.app import App
 
